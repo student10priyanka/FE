@@ -1,0 +1,2 @@
+settinfgs-> mouse wheel 
+press f2 to rename

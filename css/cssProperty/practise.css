@@ -1,0 +1,22 @@
+.first{
+    background-color: orange;
+   
+}
+.second{
+    background-color: aqua;
+}
+span{
+    background-color: green;
+    display:block;
+    height:200px;
+    width:200px;
+    margin:20px;
+
+}
+/*
+bloack elements lo hum height,width,margin de skte hai
+ 
+inline ko height,width nhi de skte
+margin sef horizontal hi milega vertical nhu milega
+
+diplay:inline-block krne se height width vgera sab lgne lgega inline element pr*/
