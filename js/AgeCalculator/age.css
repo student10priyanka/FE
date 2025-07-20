@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 2rem;
+  background-color: violet;
+  text-align: center;
+}
+
+input,
+button {
+  padding: 0.5rem;
+  margin: 1rem;
+}
